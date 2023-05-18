@@ -1,11 +1,11 @@
 const HeroSection = () => {
     return (
-        <main className="hero">
+        <main className="hero container">
 
             <div className="hero-content" >
 
                 <h1>
-                    YOUR FEET DESERVE THE BEST
+                    YOUR FEET DESERVES THE BEST
                 </h1>
 
                 <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic ab nisi debitis voluptatum eum similique.
@@ -13,7 +13,7 @@ const HeroSection = () => {
                     quisquam saepe. Exercitationem, inventore
                 </p>
 
-                <div className="hero-btn">
+                <div className="btn">
                     <button>Shop Now</button>
                     <button>Category</button>
                 </div>
